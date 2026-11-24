@@ -3,6 +3,15 @@
 ### CHƯƠNG TRÌNH GDPT 2018 - THỜI LƯỢNG 90 PHÚT (2 TIẾT)
 **HỘI THI THIẾT KẾ CHỦ ĐỀ DẠY HỌC SỐ & STEM/STEAM NĂM HỌC 2026 - 2027**
 
+### 👩‍🏫 Thông Tin Tác Giả & Giáo Viên Phụ Trách
+- **Họ và tên:** Thượng Thị Trúc Phương
+- **Năm sinh:** 1993
+- **Thâm niên công tác:** 10 năm
+- **Đơn vị công tác:** Trường THCS Bình Dương (Sở Giáo dục và Đào tạo tỉnh Bình Dương)
+- **Số điện thoại:** 0384311600
+- **Email:** phuongtttpc@tu.sgdbinhduong.edu.vn
+- **Website chính thức:** [https://lichsu8.vercel.app/](https://lichsu8.vercel.app/)
+
 ---
 
 ### 📖 Giới Thiệu Tổng Quan
