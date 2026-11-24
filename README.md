@@ -36,6 +36,7 @@ Sản phẩm được thiết kế thuần công nghệ Web (HTML5/Tailwind/Java
 ### 🚀 Hướng Dẫn Vận Hành
 - **Chạy trực tiếp (Offline / Local):** Nhấp đúp mở trực tiếp tệp `index.html` bằng trình duyệt web bất kỳ (Chrome, Edge, Firefox, Cốc Cốc, Safari).
 - **Triển khai Online:** Hỗ trợ kích hoạt trực tuyến qua GitHub Pages, Vercel hoặc Cổng thông tin học liệu số của nhà trường.
+- **Địa chỉ truy cập chính thức trực tuyến:** [https://lichsu8.vercel.app/](https://lichsu8.vercel.app/)
 
 ---
 © Bản quyền thuộc về Đơn vị thiết kế học liệu số & Giáo viên phụ trách dự thi.
