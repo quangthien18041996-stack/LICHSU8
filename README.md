@@ -1,4 +1,4 @@
-# 🏛️ HỆ SINH THÁI HỌC LIỆU SỐ TƯƠNG TÁC ĐA NĂNG - LỊCH SỬ 9
+# 🏛️ HỆ SINH THÁI HỌC LIỆU SỐ TƯƠNG TÁC ĐA NĂNG - LỊCH SỬ 8
 ## BÀI 14: TRUNG QUỐC VÀ NHẬT BẢN (TỪ NỬA SAU THẾ KỈ XIX ĐẾN ĐẦU THẾ KỈ XX)
 ### CHƯƠNG TRÌNH GDPT 2018 - THỜI LƯỢNG 90 PHÚT (2 TIẾT)
 **HỘI THI THIẾT KẾ CHỦ ĐỀ DẠY HỌC SỐ & STEM/STEAM NĂM HỌC 2026 - 2027**
@@ -6,7 +6,7 @@
 ---
 
 ### 📖 Giới Thiệu Tổng Quan
-Học liệu số tương tác phục vụ giảng dạy môn Lịch sử 9 (Bài 14) theo mô hình **Dạy học theo Trạm (Station Teaching)** kết hợp **Dạy học Dự án Số Hóa 4 Nhóm** và **Bàn Thẩm Định Chuyên Môn Sư Phạm Của Giáo Viên**.
+Học liệu số tương tác phục vụ giảng dạy môn Lịch sử 8 (Bài 14) theo mô hình **Dạy học theo Trạm (Station Teaching)** kết hợp **Dạy học Dự án Số Hóa 4 Nhóm** và **Bàn Thẩm Định Chuyên Môn Sư Phạm Của Giáo Viên**.
 
 Sản phẩm được thiết kế thuần công nghệ Web (HTML5/Tailwind/JavaScript), tối ưu hóa trải nghiệm tương tác trên Smartboard, máy tính và máy tính bảng của học sinh.
 
